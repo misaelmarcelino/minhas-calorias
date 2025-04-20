@@ -1,4 +1,4 @@
-package br.com.fiap.minhas_calorias;
+package br.com.minhas_calorias;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
