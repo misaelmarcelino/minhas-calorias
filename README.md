@@ -46,3 +46,6 @@ As tabelas principais do sistema são:
 
 Misael Souza Marcelino
 Desenvolvedor Full Stack
+
+Projeto desenvolvido em conjunto ao conteudo da Graduaçao de Analise e Desenvolvimento de Sistemas  -
+FIAP - Faculdade de Informatica e Administração Paulista - 3’Semestre
